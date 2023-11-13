@@ -22,5 +22,5 @@
 Открыть файл с помощью нужного компилятора (можно скопировать текст в онлайн), сделать откладку и компиляцию программы, проверить на тестах.
 
 # Скриншоты тестов
-![image](https://github.com/4s4ken/LR-8/assets/65232734/321ab1dc-ecc4-474d-88c1-2d3aa728bd2b)
-![image](https://github.com/4s4ken/LR-8/assets/65232734/4590b8d7-f60b-4620-8744-02b126e9a680)
+![image](https://github.com/4s4ken/LR-8/assets/65232734/1c62539f-0987-4477-b787-51d6748cd42a)
+![image](https://github.com/4s4ken/LR-8/assets/65232734/3bedc7da-c8c6-4644-bc2a-4078550b22e0)
